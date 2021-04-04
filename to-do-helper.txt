@@ -1,0 +1,13 @@
+- Please create single pag application, using React JS as the technology framework.
+- Please create a similar page design as simple as shown in the reference image enclosed.
+- This development in HTML needs to be pixel perfect and responsive.
+- Please demonstrate the Routing for atleast 2 Menu items in the Left menu. The pages can have any static content. But better would be to use any publicly available test API and display the contents of the API on the right hand side.
+- Please follow the structure as per the norms and industry standards with creation components.
+- Menu on the left hand side need to be collapsible.
+- Collapsed mode should display only the icons and without the menu item text.
+- Try using "Link" from react-router instead of Nav-Link to achieve it,
+- Once done, you can share the build folder using any GDrive link or through any repo.
+
+
+Any concerns please feel free to call me.
+Adarsh: +91 9916295377

@@ -1,0 +1,10 @@
+.content-container {
+  padding-left: 50px;
+  padding-top: 10px;
+}
+.friend-list-item {
+  margin: 10px;
+  border-width: 5px;
+  background-color: burlywood;
+  padding: auto;
+}
